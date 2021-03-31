@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="196dp"
+    android:background="@drawable/banner"
+    android:padding="12dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:paddingBottom="10dp">
+
+
+    <ImageView
+        android:layout_above="@+id/user_name_id"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/icon_id"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/pipsicon"
+        android:contentDescription="@string/icon_of_pips_lover" />
+
+    <TextView
+        android:id="@+id/user_name_id"
+        android:alpha=".8"
+        android:inputType="textCapWords"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/user_mail_id"
+        tools:ignore="TextViewEdits" />
+    <TextView
+        android:alpha=".7"
+        android:id="@+id/user_mail_id"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

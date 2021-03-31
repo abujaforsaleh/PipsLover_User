@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Login Registration</string>
+
+    <string name="home">home</string>
+    <string name="dashboard">dashboard</string>
+    <string name="about">about</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="profile">Profile</string>
+    <string name="riskratio">Risk Ratio</string>
+    <string name="report">Monthly Report</string>
+    <string name="privecy"><![CDATA[Privecy & Policy]]></string>
+    <string name="share">Share</string>
+    <string name="login_email">user_login_info</string>
+    <string name="login_password">user_login_info</string>
+    <string name="login_info">login_info</string>
+    <string name="chart">Weekly Chart</string>
+    <string name="logout">Log Out</string>
+    <string name="referd_monitor">Reference Monitor</string>
+    <string name="pips_lover">Pips Lover</string>
+    <string name="pips_lover_string">Pips Lover</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_app_is">This app is ...</string>
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+    <string name="risk_text">Risk Ratio text will be appair here</string>
+    <string name="pips_lover_slogan">Tread with Pips Lover</string>
+    <string name="todo">TODO</string>
+    <string name="copyright_icon">copyRight Icon</string>
+    <string name="copyright">Copyright</string>
+    <string name="pips_lover_2021">Pips Lover 2021</string>
+    <string name="version">Version</string>
+    <string name="version_no">1.0</string>
+    <string name="powered_by">Powered By</string>
+    <string name="banglabs_co">Banglabs.co</string>
+    <string name="contact">Contact</string>
+    <string name="fort_lauderdale_florida_usa">Fort Lauderdale, Florida, USA</string>
+    <string name="banglabs2020_gmail_com">banglabs2020@gmail.com</string>
+    <string name="facebook_com_banglabsbd">facebook.com/banglabsbd</string>
+    <string name="add_new_pear">Add new Pear +</string>
+    <string name="live_paers">Live Paers</string>
+    <string name="icon_of_pips_lover">icon of pips lover</string>
+    <string name="pair_name">Pair Name</string>
+    <string name="current_rate">Current Rate</string>
+    <string name="initial_rate">"Initial Rate   "</string>
+    <string name="signal">Signal</string>
+    <string name="buy">BUY</string>
+    <string name="sell">SELL</string>
+    <string name="free">FREE</string>
+    <string name="paid">PAID</string>
+    <string name="tp_1">TP-1</string>
+    <string name="tp_2">TP-2</string>
+    <string name="submit">Submit</string>
+    <string name="user_msg">To Get More Premioum signal with Ad free Services Please Subscribe with Your comfortable Package.</string>
+
+
+</resources>

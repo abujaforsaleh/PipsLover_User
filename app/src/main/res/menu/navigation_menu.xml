@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/contact_icon"
+        android:title="@string/contact" />
+    <item
+        android:id="@+id/risk_ratio"
+        android:icon="@drawable/risk_icon"
+        android:title="@string/riskratio" />
+
+    <item
+        android:id="@+id/chart"
+        android:icon="@drawable/chart_icon"
+        android:title="@string/chart" />
+    <item
+        android:id="@+id/referd_monitor"
+        android:title="@string/referd_monitor"
+        android:icon="@drawable/refer_icon"/>
+
+    <item
+        android:id="@+id/privecy"
+        android:icon="@drawable/privacy_icon"
+        android:title="@string/privecy" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share_icon"
+        android:title="@string/share" />
+
+    <item
+        android:id="@+id/rate_id"
+        android:title="Rate App"
+        android:icon="@drawable/rate_icon"/>
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logout_icon"
+        android:title="@string/logout" />
+
+
+
+
+
+</menu>
